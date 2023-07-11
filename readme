@@ -1,0 +1,3 @@
+You can modify the script to trigger the hands-up animation through the menu system. This typically involves registering a menu item or button that executes the ToggleHandsUp() function when selected.
+
+With this modification, you can now use the "/handsup" command in the chatbox or press the specified key (default: Z) to toggle the hands-up animation within Vmenu.
